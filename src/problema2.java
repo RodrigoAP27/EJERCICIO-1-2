@@ -11,7 +11,7 @@ public class problema2 {
 
 
         for (int j=0;j<numero.length;j++){
-            System.out.println(numero[j]+" ");
+            System.out.println(numero[j]+"  ");
         }
 
 
